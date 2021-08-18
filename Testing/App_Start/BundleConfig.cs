@@ -5,6 +5,7 @@ namespace Testing
 {
     public class BundleConfig
     {
+        //TESTINg the  change t the new report importredfasdf
         // For more information on bundling, visit https://go.microsoft.com/fwlink/?LinkId=301862
         public static void RegisterBundles(BundleCollection bundles)
         {
